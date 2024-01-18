@@ -34,7 +34,7 @@ export default function ContactMe() {
         <a href="https://www.facebook.com/andrew.onais.9">
           <BsFacebook className="text-white" size={30} />
         </a>
-        <a href="https://www.linkedin.com/in/andrea-siano-023a46243/">
+        <a href="https://www.linkedin.com/in/andrea-s-pensieri-9abb73225/">
           <BsLinkedin className="text-white xxxs:ml-3 xxs:ml-4 ml-8" size={30} />
         </a>
         <a href="https://dribbble.com/Pensieri90">
