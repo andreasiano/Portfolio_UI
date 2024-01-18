@@ -36,7 +36,7 @@ export default function ImageCards() {
               src={card.img}
               alt={card.title}
             />
-            <div className="absolute lg:mt-1 sm:mt-5 lg:mx-4 p-4 text-slate-900 inset-0 flex flex-col items-start">
+            <div className="absolute lg:mt-1 sm:mt-5 lg:mx-4 p-4 text-slate-700 inset-0 flex flex-col items-start">
               <h1 className="lg:text-[40px] lg:leading-[50px] md:text-[35px] sm:leading-[60px] md:leading-[40px] xs:text-[50px] sm:text-[50px] xxs:text-3xl xxxs:text-[20px] xxs:mb-4 md:mb-0 font-bold">
                 {card.title}
               </h1>
