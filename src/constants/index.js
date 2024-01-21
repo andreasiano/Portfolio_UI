@@ -27,7 +27,7 @@ export const imgData = [
            title: "East Asian Blog",
            img: img1,
            description:
-             "This is a personal project based on my passion for East Asian Cultures. It is a Blog built with React and Bootstrap.",
+             "This is a personal project based on my passion for East Asian Cultures. A Blog built with React and Bootstrap.",
            button: "See Project",
            link: "https://east-asian-blog.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
