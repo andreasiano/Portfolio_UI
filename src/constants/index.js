@@ -1,4 +1,4 @@
-import img1 from '../assets/Blog.webp'
+import img1 from '../assets/Blog.jpg'
 import img2 from '../assets/travelApp.png'
 import img3 from '../assets/Wallet.png'
 import img4 from '../assets/ViviLittlle.png'
