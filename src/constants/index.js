@@ -8,10 +8,6 @@ import { BsFillArrowRightCircleFill } from 'react-icons/bs'
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
-  },
-  {
     id: "works",
     title: "Works",
   },

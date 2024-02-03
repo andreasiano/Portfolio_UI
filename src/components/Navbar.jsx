@@ -17,7 +17,7 @@ export default function Navbar() {
   }
   return (
     <motion.div 
-    className="flex py-6 justify-between items-center navbar"
+    className="flex py-6 font-dmserif justify-between items-center navbar"
     initial={{ opacity: 0, translateY: -50 }}
     animate={{opacity: 1, translateY: 0}}
     transition={{ duration: 0.5 }}
@@ -28,7 +28,7 @@ export default function Navbar() {
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
           <li
-            className={`text-dimWhite transition duration-500 hover:text-blue-200 ${
+            className={`text-dimWhite font-bold transition duration-500 hover:text-blue-200 ${
               index === navLinks.length - 1 ? "mr-0" : "mr-5"
             } text-[15px] cursor-pointer`}
             key={nav.id}
